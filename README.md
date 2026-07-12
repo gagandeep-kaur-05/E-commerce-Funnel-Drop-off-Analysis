@@ -98,9 +98,3 @@ jupyter notebook notebooks/funnel_analysis.ipynb
 ```
 
 ---
-
-## Resume Bullet Points
-
-> *"Performed funnel drop-off analysis on 1,10,000 e-commerce orders; identified payment approval stage as the primary revenue leak, with Boleto payments failing at 28% — quantified ₹3.6 Cr estimated revenue lost and delivered prioritised business recommendations."*
-
-> *"Built an interactive Streamlit dashboard with dynamic filters (category, payment method, state, order value) enabling segment-level exploration of funnel metrics and revenue loss."*
